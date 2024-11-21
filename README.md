@@ -1,7 +1,21 @@
 
-<p align="center">
+<div align="center">
   
-  [![Get-Attachment-Thumbnail.png](https://i.postimg.cc/SxnKZ3f1/Get-Attachment-Thumbnail.png)](https://postimg.cc/WdPjz9K0)
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
+<details>
+<summary>Open profile</summary>
+
+<br>
+  <div>
+    <img align="center" src="https://i.postimg.cc/qMnfkCdL/thumbnail-Photoroom-20241121-161654.png" alt="Thumbnail">
+ </div>
+<details>
+<summary>About me</summary>
+
+<p align = "center">
+  
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Marina</h1>
@@ -10,6 +24,10 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
+<div align="center">
+
+<div align="left">
   
 - 🌱 I’m currently learning **ML with Python**
 
@@ -46,4 +64,14 @@
 
 </p>
 
----
+  </td>
+  </tr>
+</table>
+</details>
+
+</details>
+
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</div>
+
