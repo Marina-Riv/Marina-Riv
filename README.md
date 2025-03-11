@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **mar.riv.sci@outlook.com**
   
-- ⚡ Fun fact **The dog's name in the photo is Mani**
+- ⚡ Fun fact **Meet MAni the Dog**
 
 </td>
 
